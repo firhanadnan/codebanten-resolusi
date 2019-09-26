@@ -3,3 +3,4 @@ Codebanten resolusi
 -pelajari javascript dan codeigniter
 -pelajari database relasi
 -project e-dokumentasi
+-pelajari project team
