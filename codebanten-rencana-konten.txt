@@ -1,3 +1,5 @@
 Rencana Konten Codebanten
 
 - perbanyak postingan codeigniter
+- posting mengenai database
+- upload project yang sudah selesai
